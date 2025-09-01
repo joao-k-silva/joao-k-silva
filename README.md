@@ -4,7 +4,7 @@
 
 ##
 
-![AWS CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Security Hub](https://img.shields.io/badge/AWS_Security_Hub-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Inspector](https://img.shields.io/badge/AWS_Inspector-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=plastic&logo=google-cloud&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=plastic&logo=microsoft-azure&logoColor=white)
