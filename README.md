@@ -1,2 +1,2 @@
-- 🔐 Profissional de segurança cibernética com experiência em gerenciamento de Centro de Operações de Segurança (SOC), resposta a incidentes e caça a ameaças | Especializado em resposta a incidentes multicloud, engenharia de detecção e caça a ameaças
+- 🔐 Cybersecurity Professional with expertise in Security Operations Center (SOC) management, incident response, and threat hunting | Specialized in Multicloud Incident Response, Detection Engineering and Threat Hunting
 - 📍 Location: São Paulo, Brazil
