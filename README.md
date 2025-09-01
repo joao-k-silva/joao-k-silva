@@ -1,4 +1,4 @@
-🔐 Cybersecurity Professional with expertise in Security Operations Center (SOC) management, incident response, and threat hunting
-🎯 Specialized in: Advanced persistent threat detection, malware analysis, and security incident orchestration
-🚀 Mission: Protecting digital assets and staying ahead of emerging cyber threats
-📍 Location: São Paulo, Brazil
+- 🔐 Cybersecurity Professional with expertise in Security Operations Center (SOC) management, incident response, and threat hunting
+- 🎯 Specialized in: Advanced persistent threat detection, malware analysis, and security incident orchestration
+- 🚀 Mission: Protecting digital assets and staying ahead of emerging cyber threats
+- 📍 Location: São Paulo, Brazil
