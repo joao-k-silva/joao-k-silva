@@ -1,2 +1,2 @@
-- 🔐 Cybersecurity Professional with expertise in Security Operations Center (SOC) management, incident response, and threat hunting | Specialized in Multicloud Incident Response, Detection Engineering and Threat Hunting
+- 🔐 SOC Engineer | Senior Incident Response Analyst | Threat Hunting
 - 📍 Location: São Paulo, Brazil
